@@ -27,7 +27,7 @@
     "nacl-signature": "^2.0.2",
     "node-exchange-rate": "^1.0.1",
     "nodejs-currency-converter": "^1.0.2",
-    "nodemailer": "^6.4.5",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.1",
     "passport-http": "^0.3.0",
     "payfort-node": "^2.0.1",
