@@ -18,7 +18,7 @@
     "exchangerate-api": "^0.1.0",
     "express": "^4.17.1",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "live-currency-exchange": "^1.0.2",
     "money": "^0.2.0",
     "money-exchange": "^1.0.0",
